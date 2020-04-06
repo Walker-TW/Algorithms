@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def my_binary_search(list, item)
   low = 0
   high = list.length - 1
